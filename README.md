@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao meu perfil!!
 
 
-<h1>Atualmente, sou formado em Técnico mecatrônico e estudante de Desenvolvimento de sistemas.</h1>
+<h1>Atualmente, sou formado em Mecatrônica e estudante de Desenvolvimento de sistemas.</h1>
 
 <div align="center">
   <a href="https://github.com/pedrinxss">
