@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao meu perfil!!
 
 
-<h1>Atualmente, sou rmado em Técnico mecatrônico e estudante de Desenvolvimento de sistemas./h1>
+<h1>Atualmente, sou formado em Técnico mecatrônico e estudante de Desenvolvimento de sistemas./h1>
 
 <div align="center">
   <a href="https://github.com/pedrinxss">
@@ -28,8 +28,8 @@
 <div> 
  
  <a href="welltecnic#3434" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:welltecnic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellingtoncidade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pe_rodnatal@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/pedrinxss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
